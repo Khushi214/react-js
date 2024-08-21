@@ -1,0 +1,37 @@
+.navbar{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.items
+{
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 50px;
+    float:right;
+    color: white;
+    margin-top: 20px;
+}
+.items:hover{
+    color: pink;
+}
+.logo:hover{
+    color: pink;
+}
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+    float:left;
+    color: white;
+}
+.menu{
+    background-color: lightcoral;
+}
+.image .img
+{
+    
+}
+
+
+

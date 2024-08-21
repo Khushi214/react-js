@@ -1,0 +1,107 @@
+.main{
+    height: 80px;
+    width: 100%;
+    background-color: mediumaquamarine;
+}
+.items{
+    display: inline-flex;
+    font-size: 30px;
+    font-weight: bold;
+    float:left;
+    margin-left: 50px;
+    color: white;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.items:hover{
+    color: rosybrown;
+}
+.intro{
+    text-align: center;
+    font-weight: bold;
+    color: palegreen;
+    background-color: darkcyan;
+    height: 250px;
+    width: 100%;
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: white;
+    float: left;
+    text-align: justify;
+    margin-left: 30px;
+    font-weight: lighter;
+}
+.reactapp{
+    background-color: skyblue;
+    text-align: center;
+    font-weight: bold;
+    height: 250px;
+    width: 100%;
+    color: darkblue;
+    margin-top: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.para1{
+    color: white;
+    text-align: justify;
+    margin-right: 20px;
+    float: right;
+    padding: 5px;
+    margin-top: 0px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Sans', Arial, sans-serif;
+}
+.image1{
+    float: left;
+    margin-left: 10px;
+}
+.whatisreact{
+    background-color: seagreen;
+    color: aquamarine;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.para2{
+    color:white;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.reactwork{
+    color: aquamarine;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.para3{
+    color: white;
+    margin-right: 20px;
+}
+.image2{
+
+    position: absolute;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+}
+.virtualdom{
+    margin-top: 20px;
+    background-size: 100%;
+    text-align: center;
+    color: royalblue;
+    opacity: 0.9;
+}
+.dom{
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: navy;
+}
